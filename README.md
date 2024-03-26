@@ -8,6 +8,6 @@ Made under the supervision of Dr.Erma for WIA1006 - Machine Learning at Universi
 
 ---
 
-![Application](Images/App.png)
+![Application](./App.png)
 
 ---
